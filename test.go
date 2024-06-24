@@ -6,7 +6,7 @@ func main() {
 	}
 	for c2 := 'a'-1 ; c2 <= 'z'; c2++ {
 		println(string(c2))
-		println()
+		println(string(""))
 	}
 }
 
