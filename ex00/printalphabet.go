@@ -1,7 +1,6 @@
 package main
 
-func main() 
-{
+func main() {
 	for c := 'a'; c <= 'z'; c++ {
 		print(string(c))
 	}
